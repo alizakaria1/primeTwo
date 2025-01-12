@@ -73,7 +73,7 @@ namespace API.Controllers
         [HttpGet("ping")]
         public IActionResult Ping()
         {
-            return Ok("poing");
+            return Ok("ping test");
         }
 
         //[HttpPost("SendEmail")]
