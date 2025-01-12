@@ -70,6 +70,12 @@ namespace API.Controllers
             return Ok(foodList);
         }
 
+        [HttpGet("ping")]
+        public IActionResult Ping()
+        {
+            return Ok("poing");
+        }
+
         //[HttpPost("SendEmail")]
         //public IActionResult SendEmail()
         //{
