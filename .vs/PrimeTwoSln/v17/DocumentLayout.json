@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|c:\\practiceprojects\\randombackendtrials\\forprimetwo\\primetwosln\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|c:\\practiceprojects\\randombackendtrials\\forprimetwo\\primetwosln\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|c:\\practiceprojects\\randombackendtrials\\forprimetwo\\primetwosln\\api\\controllers\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|solutionrelative:api\\controllers\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|c:\\practiceprojects\\randombackendtrials\\forprimetwo\\primetwosln\\api\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302021B8-59A7-407F-B5A5-4C48E04ABCC3}|API\\API.csproj|solutionrelative:api\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +74,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\EmailSender.cs",
+              "RelativeDocumentMoniker": "API\\EmailSender.cs",
+              "ToolTip": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\EmailSender.cs",
+              "RelativeToolTip": "API\\EmailSender.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:36:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:12:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "API\\Dockerfile",
+              "ToolTip": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Dockerfile",
+              "RelativeToolTip": "API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T06:59:24.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Controllers\\FoodItem.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\FoodItem.cs",
               "ToolTip": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Controllers\\FoodItem.cs",
               "RelativeToolTip": "API\\Controllers\\FoodItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T06:39:24.312Z",
               "EditorCaption": ""
@@ -81,7 +132,7 @@
               "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\PracticeProjects\\RandomBackEndTrials\\ForPrimeTwo\\PrimeTwoSln\\API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAqwEUAAAAgAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T06:38:27.925Z",
               "EditorCaption": ""

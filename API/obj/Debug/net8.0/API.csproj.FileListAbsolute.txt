@@ -30,3 +30,4 @@ C:\PracticeProjects\RandomBackEndTrials\ForPrimeTwo\PrimeTwoSln\API\obj\Debug\ne
 C:\PracticeProjects\RandomBackEndTrials\ForPrimeTwo\PrimeTwoSln\API\obj\Debug\net8.0\API.pdb
 C:\PracticeProjects\RandomBackEndTrials\ForPrimeTwo\PrimeTwoSln\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\PracticeProjects\RandomBackEndTrials\ForPrimeTwo\PrimeTwoSln\API\obj\Debug\net8.0\ref\API.dll
+C:\PracticeProjects\RandomBackEndTrials\ForPrimeTwo\PrimeTwoSln\API\obj\Debug\net8.0\API.sourcelink.json
